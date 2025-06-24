@@ -8,9 +8,10 @@ html,body{
 
 .main-image{
     position: relative;
-    background:url(../images/background.jpeg);
+    background:url(../image/image.jpg);
     background-size: cover;
-    height: 600px;
+    height: 100vh;
+    width: 100%;
     overflow: hidden;
 }
 
